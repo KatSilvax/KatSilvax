@@ -11,7 +11,7 @@
 <br>  
 
 <p align="left">
-  💼 Ferramentas: **TRELLO | AWS | DOCKER | VSCODE | PYTORCH | TENSORFLOW **
+  💼 Ferramentas: TRELLO | AWS | DOCKER | VSCODE | PYTORCH | TENSORFLOW
 </p>
 
 <p align="left">
