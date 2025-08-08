@@ -42,9 +42,10 @@ Estou em busca de uma oportunidade como **Engenheira de Software, IA/ML ou área
 
 | Certificação | Emissor |
 | :--- | :--- |
-| **AWS Certified Cloud Practitioner** | <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="25"> |
-| **AI-Assisted Certified Professional** | <img src="https://www.compass.uol/wp-content/uploads/2023/07/logo-compass-UOL.png" height="25"> |
-| **Formação em IA, ML, NLP e Cloud** | <img src="https://cdn.simpleicons.org/udemy/A435F0" height="25"> |
+| **AWS Certified Cloud Practitioner** | <img src="./aws.png" height="50"> |
+| **AI-Assisted Certified Professional** | <img src="./1.png" height="50"> |
+| **AI- GEN TECHNICAL CERTIFICATION** | <img src="./2.png" height="50"> |
+| **Formação em IA, ML, NLP e Cloud** | <img src="https://cdn.simpleicons.org/udemy/A435F0" height="50"> |
 | **Trabalho Aceito em Congresso Internacional** | COSACo |
 | **2º Lugar em Feira de Ciência e Tecnologia** | IFMS |
 
