@@ -38,12 +38,15 @@ Estou em busca de uma oportunidade como **Engenheira de Software, IA/ML ou área
 - **Descrição:** Projeto de iniciação científica para detecção de doenças em folhas de soja utilizando Redes Neurais Convolucionais (CNNs), visando a redução de perdas na produção.
 - **Tecnologias:** `Python`, `TensorFlow`, `Keras`, `CNNs`, `Matplotlib`.
 
-## 🎓 Certificações e Conquistas
-- **AWS Certified Cloud Practitioner**
-- **AI-Assisted Certified Professional** (Compass UOL)
-- **Certificados Udemy:** Redes Neurais com Python, Processamento de Linguagem Natural (LLMs e Gen AI), Machine Learning com AWS SageMaker, Terraform, AWS Security Best Practices.
-- **Trabalho Aceito e Apresentado:** COSACo - Congresso Internacional: Conexões de Saberes Contemporâneos.
-- **2º Lugar na Feira de Ciência e Tecnologia** com o projeto AgroIntelliVision.
+### 🎓 Certificações e Conquistas
+
+| Certificação | Emissor |
+| :--- | :--- |
+| **AWS Certified Cloud Practitioner** | <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="25"> |
+| **AI-Assisted Certified Professional** | <img src="https://www.compass.uol/wp-content/uploads/2023/07/logo-compass-UOL.png" height="25"> |
+| **Formação em IA, ML, NLP e Cloud** | <img src="https://cdn.simpleicons.org/udemy/A435F0" height="25"> |
+| **Trabalho Aceito em Congresso Internacional** | COSACo |
+| **2º Lugar em Feira de Ciência e Tecnologia** | IFMS |
 
 💻 Aqui estão algumas das tecnologias que eu atuo:
 
