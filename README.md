@@ -1,20 +1,49 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+  <img src="https://octodex.github.com/images/mona-lovelace.png" alt="Software Developer" width="600">
 </div>
 
 # 🚀 Olá, eu sou Katcilane Silva
 
+Engenheira de Software em início de carreira, com certificação **AWS Cloud Practitioner** e paixão por construir soluções que unem dados, Inteligência Artificial e computação em nuvem.
+
 ## Sobre mim
 
-✨ Atualmente, estou estagiando na Compass UOL na trilha de Data | Inteligência Artificial 🚀, onde mergulho de cabeça em projetos práticos que envolvem Machine Learning, IA e serviços AWS ☁️. Minha rotina é repleta de desafios que exigem o uso de ferramentas como Python 🐍, Docker 🐳, AWS Lambda ⚡, boto3, JSON, e Git BASH 💻, além de desenvolver scripts e soluções que integram PNL (Programação Neurolinguística) e aprendizado de máquina para resolver problemas reais.
+✨ Recentemente, concluí meu estágio na **Compass UOL** na trilha de **Data & Inteligência Artificial**, onde desenvolvi projetos práticos utilizando o ecossistema AWS, aplicando conceitos de Machine Learning e IA Generativa para resolver problemas reais.
 
-Minha migração para a área de tecnologia tem sido uma jornada incrível! 🛤️ Tenho me dedicado ao aprimoramento constante, adquirindo habilidades sólidas em estruturas de dados, algoritmos e bancos de dados, além de explorar linguagens como JavaScript para ampliar meu repertório técnico. 💡
+Essa experiência consolidou minha migração para a área de tecnologia, onde venho me dedicando ao aprimoramento constante em desenvolvimento de software, algoritmos e cloud. Atualmente, continuo a expandir meu conhecimento como Desenvolvedora e Analista de Dados voluntária na **Itaipu Parquetec** e como pesquisadora em visão computacional no **IFMS**.
 
-Estou sempre empolgada em contribuir com minha capacidade analítica e colaborativa em equipes multidisciplinares, buscando aprender e crescer com os desafios propostos. 🤝✨
+Estou em busca de uma oportunidade como **Engenheira de Software, IA/ML ou áreas correlatas** para aplicar minhas habilidades, colaborar em equipes inovadoras e continuar crescendo profissionalmente.
 
-Agradeço pela oportunidade de compartilhar minha trajetória e estou à disposição para discutir como posso agregar valor aos projetos da sua empresa, combinando minha paixão por tecnologia com minha dedicação em entregar resultados inovadores e eficientes. 🚀. ✨
+## 💻 Habilidades Tecnológicas
 
-## Habilidades Tecnológicas
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python, JavaScript, Java |
+| **Cloud & AWS** | AWS Cloud Practitioner, AWS Lambda, Amazon S3, EC2, Bedrock, SageMaker, IAM |
+| **IA & Machine Learning** | Machine Learning, IA Generativa, Processamento de Linguagem Natural (PNL), Redes Neurais (CNNs), Visão Computacional, RAG |
+| **Ferramentas & Frameworks** | Git, Docker, Terraform, Boto3, Flask, FastAPI, LangChain, Pandas, Matplotlib |
+| **Desenvolvimento** | APIs REST, Metodologias Ágeis, Estrutura de Dados, Algoritmos |
+
+## 🚀 Projetos de Destaque
+
+#### 🤖 Chatbot Jurídico com IA Generativa
+- **Descrição:** API em FastAPI com LangChain e Amazon Bedrock para analisar e responder perguntas sobre documentos jurídicos, com deploy em container Docker.
+- **Tecnologias:** `Python`, `FastAPI`, `LangChain`, `Amazon Bedrock`, `Docker`.
+
+#### 🌿 Sistema de Análise Socioambiental (Parceria IFMS & Itaipu)
+- **Descrição:** Aplicação web full-stack que automatiza a análise de 785 registros socioambientais, reduzindo o tempo de geração de insights de horas para segundos.
+- **Tecnologias:** `Python`, `Flask`, `JavaScript`, `Chart.js`, `API REST`.
+
+#### 🌾 AgroIntelliVision (Visão Computacional)
+- **Descrição:** Projeto de iniciação científica para detecção de doenças em folhas de soja utilizando Redes Neurais Convolucionais (CNNs), visando a redução de perdas na produção.
+- **Tecnologias:** `Python`, `TensorFlow`, `Keras`, `CNNs`, `Matplotlib`.
+
+## 🎓 Certificações e Conquistas
+- **AWS Certified Cloud Practitioner**
+- **AI-Assisted Certified Professional** (Compass UOL)
+- **Certificados Udemy:** Redes Neurais com Python, Processamento de Linguagem Natural (LLMs e Gen AI), Machine Learning com AWS SageMaker, Terraform, AWS Security Best Practices.
+- **Trabalho Aceito e Apresentado:** COSACo - Congresso Internacional: Conexões de Saberes Contemporâneos.
+- **2º Lugar na Feira de Ciência e Tecnologia** com o projeto AgroIntelliVision.
 
 💻 Aqui estão algumas das tecnologias que eu atuo:
 
