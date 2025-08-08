@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img.png" alt="Software Developer" width="600">
+  <img src="./img.png" alt="Software Developer" width="400">
 </div>
 
 # 🚀 Olá, eu sou Katcilane Silva
